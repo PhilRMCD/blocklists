@@ -4,6 +4,8 @@ itl-phishing.blocktest.it-limitless.de
 620620.jnextbeta.com
 a.zflnkj.com
 account050-amazon.com
+test-back.demo-host.de
+craftech.localv.ar
 adventistas.cl
 ajegolemahalati.com
 albertinen.de
